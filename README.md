@@ -48,4 +48,4 @@ clintonoliera391@gmail.com
 
 this software license under MIT License
 
-Copyright (c) 2019 chris jire
+Copyright (c) 2020 clinton oliera
