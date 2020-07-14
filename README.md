@@ -18,7 +18,7 @@ one can also comment and upvote or downvote pitches
 | Enter your profile and edit | add your bio and picture | publish your bio and pictures |
 |  |  | |
 
-## Prerequisites
+## Requirements
 
 You Require to install
 
